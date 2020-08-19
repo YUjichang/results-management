@@ -4,7 +4,7 @@
 
 
 ## 相关项目
-- [vue-admin-template](https://github.com/PanJiaChen/vue-element-admin)
+- [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
 
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
 
